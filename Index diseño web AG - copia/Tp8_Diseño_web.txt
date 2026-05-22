@@ -1,3 +1,5 @@
+Mi proyecto es una verdulería online con envío a domicilio donde uno puede elegir los productos que quiera, dejar comentarios e iniciar sesión o registrarse si así lo desea el cliente
+
 -Se ha cambiado el apartado de productos dándole una mejor organización
 -Se ha traducido el nombre de las clases en Español al Inglés
 -Se han agregado más etiquetas semánticas
@@ -6,3 +8,6 @@
 -Se han realizado cambios estéticos menores
 -Se he añadido un menú desplegable para accesibilidad de usuario utilizando JavaScript
 -Se ha agregado un contador de productos
+
+La IA se ha utilizado a modo de ayudante al momento de utilizar y agregar código del tipo JavaScript y CSS, también se ha utlizado para traducir clases del código al idioma inglés, y para ordenar de mejor manera el código y hacerlo más facilmente legible, además de ayudar a identificar si se han usado etiquetas semánticas en HTML y agregarlas si es que faltan.
+
