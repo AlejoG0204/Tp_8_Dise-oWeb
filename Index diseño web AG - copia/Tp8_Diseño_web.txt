@@ -1,4 +1,5 @@
-Mi proyecto es una verdulería online con envío a domicilio donde uno puede elegir los productos que quiera, dejar comentarios e iniciar sesión o registrarse si así lo desea el cliente
+Mi proyecto es una verdulería online con envío a domicilio donde uno puede elegir los productos que quiera, dejar comentarios
+e iniciar sesión o registrarse si así lo desea el cliente
 
 -Se ha cambiado el apartado de productos dándole una mejor organización
 -Se ha traducido el nombre de las clases en Español al Inglés
@@ -9,5 +10,12 @@ Mi proyecto es una verdulería online con envío a domicilio donde uno puede ele
 -Se he añadido un menú desplegable para accesibilidad de usuario utilizando JavaScript
 -Se ha agregado un contador de productos
 
-La IA se ha utilizado a modo de ayudante al momento de utilizar y agregar código del tipo JavaScript y CSS, también se ha utlizado para traducir clases del código al idioma inglés, y para ordenar de mejor manera el código y hacerlo más facilmente legible, además de ayudar a identificar si se han usado etiquetas semánticas en HTML y agregarlas si es que faltan.
+La IA se ha utilizado a modo de ayudante al momento de utilizar y agregar código del tipo JavaScript y CSS, también se ha
+utlizado para traducir clases del código al idioma inglés, y para ordenar de mejor manera el código y hacerlo más facilmente
+legible, además de ayudar a identificar si se han usado etiquetas semánticas en HTML y agregarlas si es que faltan.
 
+Modificar este archivo ha sido de utilidad ya que me ha ayudado a identificar errores en la forma de organizar el código de
+HTML y la forma de utilizar las etiquetas o funciones del mismo, además de corregir el mal uso de algunas cosas en el código
+de CSS y el JavaScript. Utilizar la IA me ha ayudado a realizar mas efectivamente estas correcciones y a identificar algunos
+errores que producían problemas visuales en la página web. En conclusión, hacer este trabajo me ha servido de experiencia para
+trabajos futuros y sobre como utilizar correctamente los códigos.
