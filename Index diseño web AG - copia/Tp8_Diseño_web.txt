@@ -1,0 +1,8 @@
+-Se ha cambiado el apartado de productos dándole una mejor organización
+-Se ha traducido el nombre de las clases en Español al Inglés
+-Se han agregado más etiquetas semánticas
+-Se ha utilizado la IA para ordenar/mejorar el apartado vidual del CSS para una mejor legibilidad
+-Se ha agregado una sección de comentarios y puntuación acerca de los productos utilizando JavaScript
+-Se han realizado cambios estéticos menores
+-Se he añadido un menú desplegable para accesibilidad de usuario utilizando JavaScript
+-Se ha agregado un contador de productos
